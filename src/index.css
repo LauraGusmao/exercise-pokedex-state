@@ -23,4 +23,5 @@ body {
   flex-direction: column;
   flex-wrap: wrap;
   margin: 10px 10px;
+  align-items: center;
 }
